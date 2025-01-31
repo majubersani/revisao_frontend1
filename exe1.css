@@ -1,0 +1,32 @@
+.div-row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 60px;
+    background-color: darkolivegreen;
+    justify-content: flex-end;
+}
+
+.div-column {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 50vh;
+    justify-content: space-between;
+    background-color: greenyellow;
+}
+
+.div-1 {
+    display: flex;
+    flex-direction: row;
+    width: 33.3%;
+    height: 50vh;
+    justify-content: space-between;
+    background-color: #96b36f;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
